@@ -1,0 +1,16 @@
+{
+  "name": "quickvitals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "firebase-admin": "^8.12.1",
+    "node-dht-sensor": "^0.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adhitya ram",
+  "license": "ISC",
+  "description": ""
+}

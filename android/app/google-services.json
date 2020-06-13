@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671556813040",
+    "firebase_url": "https://quickvitals-8f2aa.firebaseio.com",
+    "project_id": "quickvitals-8f2aa",
+    "storage_bucket": "quickvitals-8f2aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671556813040:android:4525d8a195a2e1d3b14235",
+        "android_client_info": {
+          "package_name": "com.adhityaram.quickvitals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671556813040-o5k26vjg8l7usrqv4uvlc1f86rnn8keh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTtHHJ-3fFvFlpHx2FghBTrHqOESKutYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671556813040-o5k26vjg8l7usrqv4uvlc1f86rnn8keh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
