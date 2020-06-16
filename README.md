@@ -37,4 +37,4 @@ https://dribbble.com/shots/11196293-Medical-App-Freebies
 
 
 screenshot 
-![Screen Shot 2020-06-12 at 9.16.16 am](Screen Shot 2020-06-12 at 9.16.16 am.png)
+![Screen Shot 2020-06-12 at 9.16.16 am](https://github.com/Roboromeo1/Sit210FinalProject/blob/master/Screen%20Shot%202020-06-12%20at%209.16.16%20am.png?raw=true)
