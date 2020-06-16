@@ -20,7 +20,7 @@ Installation :
 4.	Git clone the git hub link below to your desired location 
 5.	Setup up firebase account and google cloud account in cloud.google.com
 6.	Create a firebase project download google services file for android and ios and replace the old one which I used. 
-7.	Then setup the circuit as shown in video using raspberry pi , particle argon , dhat 11 sensor, max 30102 hear rate monitor sensor. 
+7.	Then setup the circuit as shown in video using raspberry pi , particle argon , dht 11 sensor, max 30102 hear rate monitor sensor. 
 8.	Move QuickVitals folder containing node js files to raspberry pi . 
 9.	Move in QuickVitals and type node index.js to start node app. 
 10.	Create a web hook in particle cloud and integrate it to your google cloud project by following the particle documentation. 
