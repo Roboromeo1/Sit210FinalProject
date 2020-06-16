@@ -35,3 +35,6 @@ https://github.com/Roboromeo1/Sit210FinalProject
 App Design Credit 
 https://dribbble.com/shots/11196293-Medical-App-Freebies
 
+
+screenshot 
+![Screenshot](Screen Shot 2020-06-12 at 9.16.16 am.png)
