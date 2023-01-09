@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "firebase-admin": "^8.12.1",
+    "firebase-admin": "^11.4.1",
     "node-dht-sensor": "^0.4.2"
   },
   "devDependencies": {},
